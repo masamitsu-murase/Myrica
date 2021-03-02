@@ -23,7 +23,7 @@ newfont_version      = "2.012.20180119"
 newfont_sfntRevision = 0x00010000
 
 # set font name
-newfontC  = ("../Work/MyricaC.ttf", "MyricaC", "Myrica C", "Myrica Console")
+newfontC  = ("../Work/MuraseC.ttf", "MuraseC", "Murase C", "Murase Console")
 
 # source file
 srcfontIncosolata    = "../SourceTTF/Inconsolata-Regular.ttf"
